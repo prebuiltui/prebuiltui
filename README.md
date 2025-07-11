@@ -19,4 +19,4 @@
   Perfect for developers, designers, startups and product teams.
 
 ---
-> 🔗 **Explore the full component library**: <a href="https://prebuiltui.com">https://prebuiltui.com</a>
+> 🔗 **Explore the full component library**: [https://prebuiltui.com](https://prebuiltui.com)
