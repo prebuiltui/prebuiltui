@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Glowing Button with Hover Effect</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="flex flex-col items-center justify-center min-h-screen bg-slate-950">
+
+    <div class="relative group overflow-hidden bg-white/20 p-0.5 h-9 w-20 rounded-md active:scale-100 hover:scale-105 transition-all duration-300">
+        <button class="text-white text-sm bg-gradient-to-t from-black/50 to-black h-full w-full rounded">
+            Button
+        </button>
+        <div class="absolute -bottom-12 group-hover:-bottom-10 transition-all duration-200 left-1/2 -z-10 -translate-x-1/2 blur size-14 rounded-full bg-white"></div>
+    </div>
+
+</body>
+
+</html>
