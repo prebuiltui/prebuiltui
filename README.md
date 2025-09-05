@@ -1,18 +1,18 @@
-# 🚀 PrebuiltUI – Tailwind CSS UI Components
+# PrebuiltUI – Tailwind CSS UI Components
 
 **PrebuiltUI** is a growing collection of beautifully crafted, ready-to-use UI components built with **Tailwind CSS**. Whether you're creating a **landing page**, **dashboard** or a full **SaaS application**, PrebuiltUI helps you build faster with clean, responsive and production-ready components.
 
 ---
 
-## ⭐ Support
+## Support
 
-If you like this project, please **star the repo** on GitHub. It helps us grow!  
+If you like this UI components library, please **star the repo** on GitHub. It helps us grow!  
 
 [![Star on GitHub](https://img.shields.io/github/stars/prebuiltui/prebuiltui?style=social)](https://github.com/prebuiltui/prebuiltui)
 
 ---
 
-### ✨ Key Features
+### Features
 
 * **Tailwind CSS First**
   Designed natively with Tailwind for maximum compatibility and ease of use.
@@ -30,7 +30,7 @@ If you like this project, please **star the repo** on GitHub. It helps us grow!
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! 🎨
+We welcome contributions from the community!
 
 1. Fork the repo
 2. Create a new branch
