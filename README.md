@@ -44,4 +44,4 @@ PrebuiltUI is an open-source project licensed under the [MIT License](./LICENSE)
 
 ---
 
-> 🔗 **Explore the full component library**: [https://prebuiltui.com](https://prebuiltui.com)
+> 🔗 **Explore the full component library**: [https://prebuiltui.com](https://prebuiltui.com?ref=github)
