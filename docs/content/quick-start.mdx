@@ -1,0 +1,101 @@
+---
+title: Quick Start
+description: Welcome to the PrebuiltUI Quick Start guide.
+---
+
+## Prerequisites
+
+PrebuiltUI is built entirely with **Tailwind CSS**, so installing and configuring Tailwind is the only prerequisite.
+
+Before using PrebuiltUI, make sure you have:
+
+- A project using **Next.js**, **React**, **Vite**, **Vue** or plain **HTML**
+- **Tailwind CSS** configured in your project
+
+> If you're new to Tailwind CSS, check out the [Tailwind CSS documentation](https://tailwindcss.com/docs).
+---
+
+## Install Tailwind CSS
+
+Follow the standard Tailwind installation based on your framework. For example, with Next.js:
+
+> We recommend using the official [Tailwind CSS Documentation](https://tailwindcss.com/docs) for advanced setup.
+
+
+```bash
+npm install tailwindcss @tailwindcss/cli
+```
+
+### Import Tailwind
+
+Add the @import "tailwindcss"; import to your main CSS file.
+
+
+```css
+@import "tailwindcss";
+```
+
+### Start the Tailwind
+
+```bash
+npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch
+```
+
+---
+
+## Use Components
+
+Once Tailwind is set up, you're ready to use PrebuiltUI.
+
+Just copy any component from the PrebuiltUI library and paste it into your project.
+
+Example:
+
+```html
+<button class="px-4 py-2 rounded-lg bg-black text-white hover:bg-gray-800">
+  Button
+</button>
+```
+
+Every component is fully customizable using Tailwind classes.
+
+---
+
+## Customize Components
+
+PrebuiltUI components use utility classes, so you can modify:
+
+- Colors
+- Spacing
+- Typography
+- Layout
+- Animations
+
+Example modification:
+
+```html
+<button class="px-6 py-3 rounded-xl bg-blue-600 text-white hover:bg-blue-700">
+  Primary Button
+</button>
+```
+
+---
+
+## Explore More
+
+Check out:
+
+- **[Components](/components)** for a full list of components
+- **[Templates](/tailwind-templates)** for complete website designs
+- **[Hero Section](/components/hero-section)** for a quick copy-paste hero section
+- **[All Components](/components/about)** for quick copy-paste usage
+
+Or check out the [PrebuiltUI GitHub repository](https://github.com/prebuiltui/prebuiltui) for more information.
+
+---
+
+## You're Ready!
+
+Now you can start using **PrebuiltUI Components** in your project.
+
+Start building beautiful UI components and websites with PrebuiltUI.

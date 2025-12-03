@@ -1,0 +1,48 @@
+---
+title: Tailwind Installation
+description: PrebuiltUI uses Tailwind CSS for styling. Follow these steps to install Tailwind and configure it for your project.
+---
+
+
+## Installing Tailwind (PostCSS)
+
+Open a terminal at your project root and run:
+
+```bash
+npm install tailwindcss @tailwindcss/postcss postcss
+```
+
+This installs Tailwind CSS along with PostCSS & Autoprefixer, and creates default `tailwind.config.js` and `postcss.config.js` in your project.
+
+---
+
+## Add PostCSS configuration
+
+Add @tailwindcss/postcss to your postcss.config.mjs file, or wherever PostCSS is configured in your project.
+
+```js
+export default {
+    plugins: {
+        "@tailwindcss/postcss": {},
+    }
+}
+```
+
+Then add the Tailwind directives to your global CSS (or equivalent) file:
+
+```css
+@import "tailwindcss";
+```
+
+Run your project to see the changes.
+
+```bash
+npm run dev
+```
+
+---
+
+## Official Docs Setup
+
+If you are using a different framework or need advanced Tailwind setup (custom themes, plugins, TypeScript support, etc.), refer to the official Tailwind docs:
+[Tailwind CSS Documentation](https://tailwindcss.com/docs)
