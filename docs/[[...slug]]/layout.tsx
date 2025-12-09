@@ -6,7 +6,7 @@ const inter = Inter({
 });
 
 
-export default function Layout({ children }) {
+export default function Layout({ children }: { children: React.ReactNode }) {
     return (
         <div className={inter.className}>
             {children}
