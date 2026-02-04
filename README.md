@@ -1,6 +1,6 @@
 ![banner](./assets//github/prebuiltui-homepage.png)
 
-<h1 align="center">PrebuiltUI – Tailwind CSS UI Components</h1>
+<h1 align="center">PrebuiltUI – Explore the Ultimate Collection of UI Components</h1>
 
 <div align="center">
   <a href="https://prebuiltui.com?ref=github">
@@ -14,7 +14,7 @@
 
 ## Support
 
-If you like this UI components library, please **star the repo** on GitHub. It helps us grow!
+If you like this UI component library and appreciate our work, please **star the repo**. It really helps us grow!
 
 [![Star on GitHub](https://img.shields.io/github/stars/prebuiltui/prebuiltui?style=social)](https://github.com/prebuiltui/prebuiltui)
 
@@ -51,4 +51,4 @@ PrebuiltUI is an open-source project licensed under the [MIT License](./LICENSE)
 
 ---
 
-> 🔗 **Explore the full component library**: [https://prebuiltui.com](https://prebuiltui.com?ref=github)
+> 🔗 **Explore here**: [https://prebuiltui.com](https://prebuiltui.com?ref=github)
