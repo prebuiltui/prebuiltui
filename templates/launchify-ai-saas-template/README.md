@@ -1,6 +1,6 @@
-# Launchify - React JS AI SaaS Template
+# Launchify - AI SaaS Template
 
-Modern light UI crafted for AI-powered products, Conversion focused landing page structure, Purpose-built for website builders and startup tools, Smooth animations and subtle micro interactions, Fully responsive across all devices, Built with Tailwind CSS and developer-friendly code.
+Modern light UI crafted for AI-powered products, Conversion focused landing page structure, Purpose-built for website builders and startup tools, Smooth animations and subtle micro interactions, Fully responsive across all devices and Built with Tailwind CSS and developer-friendly code.
 
 ![Launchify - React JS AI SaaS Template](https://assets.prebuiltui.com/templates/launchify/thumbnails/launchify-preview-thumbnail-1.png)
 

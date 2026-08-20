@@ -1,6 +1,6 @@
-# Pixels - React JS Animated SaaS Template
+# Pixels - Animated SaaS Template
 
-Bold dark themed layout built for modern SaaS products, Smooth Framer Motion animations across all sections, Hero section crafted to deliver strong first impressions, Clean and structured feature sections for product clarity, Testimonial components designed to build instant trust, Flexible pricing layout optimized for SaaS conversions, Fully responsive experience with smooth adaptive scaling.
+Bold dark themed layout built for modern SaaS products, Smooth Framer Motion animations across all sections, Hero section crafted to deliver strong first impressions, Clean and structured feature sections for product clarity, Testimonial components designed to build instant trust, Flexible pricing layout optimized for SaaS conversions and Fully responsive experience with smooth adaptive scaling.
 
 ![Pixels - React JS Animated SaaS Template](https://assets.prebuiltui.com/templates/pixels/thumbnails/pixels-preview-thumbnail-1.png)
 

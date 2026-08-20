@@ -1,6 +1,6 @@
-# Archino - React JS Architecture Website Template
+# Archino - Architecture Website Template
 
-Captivating Hero Display, Comprehensive About Section, Clear Process Breakdown, Compelling Core Advantages, Stunning Featured Projects, Informative FAQ Layout, Engaging Blog Grid.
+Captivating Hero Display, Comprehensive About Section, Clear Process Breakdown, Compelling Core Advantages, Stunning Featured Projects, Informative FAQ Layout and Engaging Blog Grid.
 
 ![Archino - React JS Architecture Website Template](https://assets.prebuiltui.com/templates/archino/thumbnails/archino-preview-thumbnail-1.png)
 

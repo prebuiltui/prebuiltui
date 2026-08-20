@@ -1,6 +1,6 @@
-# Design - React JS Ecommerce Template
+# Design - Ecommerce Template
 
-Minimal light interface built for modern ecommerce brands, Browse by category with smooth grid transitions, Featured products section optimized for conversion, Trust-building customer testimonials, Our Impact section for brand storytelling, Newsletter and exclusive offer capture, Strong final call-to-action section, Fully responsive and easy to customize.
+Minimal light interface built for modern ecommerce brands, Browse by category with smooth grid transitions, Featured products section optimized for conversion, Trust-building customer testimonials, Our Impact section for brand storytelling, Newsletter and exclusive offer capture, Strong final call-to-action section and Fully responsive and easy to customize.
 
 ![Design - React JS Ecommerce Template](https://assets.prebuiltui.com/templates/design/thumbnails/design-preview-thumbnail-1.png)
 

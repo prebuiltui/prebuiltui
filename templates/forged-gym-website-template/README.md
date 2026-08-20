@@ -1,6 +1,6 @@
-# Forged - React JS Gym Website Template
+# Forged - Gym Website Template
 
-Luxury performance branding, High-converting membership offers, Outcome-focused achievement gallery, Compelling athlete testimonials, Interactive FAQ and contact flow, Trusted partner showcase, Insight-driven blog previews.
+Luxury performance branding, High-converting membership offers, Outcome-focused achievement gallery, Compelling athlete testimonials, Interactive FAQ and contact flow, Trusted partner showcase and Insight-driven blog previews.
 
 ![Forged - React JS Gym Website Template](https://assets.prebuiltui.com/templates/forged/thumbnails/forged-preview-thumbnail-1.png)
 

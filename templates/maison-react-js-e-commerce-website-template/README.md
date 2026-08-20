@@ -1,6 +1,6 @@
-# Maison - React JS E-Commerce Website Template
+# Maison - E-Commerce Website Template
 
-Editorial-Style Hero Slider, Curated Collections Grid, Seamless Slide-Out Cart, Advanced Product Filtering, Immersive Product Galleries, Interactive FAQ & Support, Elegant Journal & Blog.
+Editorial-Style Hero Slider, Curated Collections Grid, Seamless Slide-Out Cart, Advanced Product Filtering, Immersive Product Galleries, Interactive FAQ & Support and Elegant Journal & Blog.
 
 ![Maison - React JS E-Commerce Website Template](https://assets.prebuiltui.com/templates/maison/thumbnails/maison-preview-thumbnail-1.png)
 

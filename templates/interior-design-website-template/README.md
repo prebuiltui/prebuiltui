@@ -1,6 +1,6 @@
-# Interio - React JS Interior Design Website Template
+# Interio - Interior Design Website Template
 
-Stunning Hero Showcase, Lead Designer Profiles, Interactive Service Highlights, Curation Portfolio Grid, Immersive Review Showcase, Interactive FAQ Accordion, Conversion Focused Banner.
+Stunning Hero Showcase, Lead Designer Profiles, Interactive Service Highlights, Curation Portfolio Grid, Immersive Review Showcase, Interactive FAQ Accordion and Conversion Focused Banner.
 
 ![Interio - React JS Interior Design Website Template](https://assets.prebuiltui.com/templates/interio/thumbnails/interio-preview-thumbnail-1.png)
 

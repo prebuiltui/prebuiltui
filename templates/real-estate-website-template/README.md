@@ -1,6 +1,6 @@
-# Estate - React JS Real Estate Website Template
+# Estate - Real Estate Website Template
 
-Conversion-Optimized Hero Section, Interactive Performance Metrics, Sticky Horizontal Scroll Gallery, Interactive Features Accordion, Dual-Column Review Marquee, Comprehensive Inquiry Form, Fluid Animations and Smooth Scroll.
+Conversion-Optimized Hero Section, Interactive Performance Metrics, Sticky Horizontal Scroll Gallery, Interactive Features Accordion, Dual-Column Review Marquee, Comprehensive Inquiry Form and Fluid Animations and Smooth Scroll.
 
 ![Estate - React JS Real Estate Website Template](https://assets.prebuiltui.com/templates/estate/thumbnails/estate-preview-thumbnail-1.png)
 

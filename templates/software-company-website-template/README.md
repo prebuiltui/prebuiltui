@@ -1,6 +1,6 @@
-# React JS Software Company Website Template
+# Software Company Website Template
 
-Animated Hero Section, Social Proof & Trust, Platform Features Grid, App Integrations Showcase, Customer Testimonials, Pricing & Plans, Compelling CTA & Footer.
+Animated Hero Section, Social Proof & Trust, Platform Features Grid, App Integrations Showcase, Customer Testimonials, Pricing & Plans and Compelling CTA & Footer.
 
 ![React JS Software Company Website Template](https://assets.prebuiltui.com/templates/novara/thumbnails/novara-preview-thumbnail-1.png)
 

@@ -1,6 +1,6 @@
-# Moksha - React JS Yoga Website Template
+# Moksha - Yoga Website Template
 
-Serene Hero Section, Interactive Classes Section, Benefits Overview, Professional Instructor Profile, Social Proof Testimonials, Clear Pricing Structure, Comprehensive FAQ, Strong Call to Action, Fully Responsive & Optimized.
+Serene Hero Section, Interactive Classes Section, Benefits Overview, Professional Instructor Profile, Social Proof Testimonials, Clear Pricing Structure, Comprehensive FAQ, Strong Call to Action and Fully Responsive & Optimized.
 
 ![Moksha - React JS Yoga Website Template](https://assets.prebuiltui.com/templates/moksha/thumbnails/moksha-preview-thumbnail-1.png)
 

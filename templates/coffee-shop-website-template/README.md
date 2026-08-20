@@ -1,6 +1,6 @@
-# Kofi - React JS Coffee Shop Website Template
+# Kofi - Coffee Shop Website Template
 
-Engaging Hero Header, Full-Screen Navigation Overlay, Sticky Stacking Highlight Gallery, Curated Menu with Direct Actions, Promotional Call to Action Banner, Complete Contact and Location Hub, Smooth Scroll and Motion Effects.
+Engaging Hero Header, Full-Screen Navigation Overlay, Sticky Stacking Highlight Gallery, Curated Menu with Direct Actions, Promotional Call to Action Banner, Complete Contact and Location Hub and Smooth Scroll and Motion Effects.
 
 ![Kofi - React JS Coffee Shop Website Template](https://assets.prebuiltui.com/templates/kofi/thumbnails/kofi-preview-thumbnail-1.png)
 

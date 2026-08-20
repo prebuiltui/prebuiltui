@@ -1,6 +1,6 @@
-# Mapple - React JS Template for Agency
+# Mapple - Template for Agency
 
-Dark themed interface with bold and eye catching accents, Grid based layout with clean bordered sections, Modern layout crafted for AI services and solutions, Smooth animations and transitions across the website, Eye level visual storytelling for agencies and startups, Fully responsive design optimized for all screen sizes, Available in Next.js, React and HTML for full flexibility.
+Dark themed interface with bold and eye catching accents, Grid based layout with clean bordered sections, Modern layout crafted for AI services and solutions, Smooth animations and transitions across the website, Eye level visual storytelling for agencies and startups, Fully responsive design optimized for all screen sizes, Available in Next.js and React and HTML for full flexibility.
 
 ![Mapple - React JS Template for Agency](https://assets.prebuiltui.com/templates/mapple/thumbnails/mapple-preview-thumbnail-1.png)
 

@@ -1,6 +1,6 @@
-# Restro - React JS Restaurant Website Template
+# Restro - Restaurant Website Template
 
-Captivating Hero Section, Signature Dishes Showcase, Streamlined Booking Process, Trust-Building Testimonials, Comprehensive Business Info, Engaging Animations, Conversion-Optimized Layout.
+Captivating Hero Section, Signature Dishes Showcase, Streamlined Booking Process, Trust-Building Testimonials, Comprehensive Business Info, Engaging Animations and Conversion-Optimized Layout.
 
 ![Restro - React JS Restaurant Website Template](https://assets.prebuiltui.com/templates/restro/thumbnails/restro-preview-thumbnail-1.png)
 

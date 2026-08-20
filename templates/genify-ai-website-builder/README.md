@@ -1,6 +1,6 @@
-# Genify - AI Website Builder React JS Template
+# Genify - AI Website Builder Template
 
-AI Generation Hero, Interactive Service Cards, Step Based Workflow, Powerful Feature Grid, Trusted Partner Showcase, Conversion Focused Testimonials, Pricing Table Section, Strong Call-to-Action, Clean & Scalable Code.
+AI Generation Hero, Interactive Service Cards, Step Based Workflow, Powerful Feature Grid, Trusted Partner Showcase, Conversion Focused Testimonials, Pricing Table Section, Strong Call-to-Action and Clean & Scalable Code.
 
 ![Genify - AI Website Builder React JS Template](https://assets.prebuiltui.com/templates/genify/thumbnails/genify-preview-thumbnail-1.png)
 

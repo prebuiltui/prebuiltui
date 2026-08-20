@@ -1,6 +1,6 @@
-# SlideX - React JS AI Presentation Template
+# SlideX - AI Presentation Template
 
-Minimal and premium layout for AI presentation tools, Elegant sections designed to showcase features beautifully, Crafted with Next.js and Tailwind CSS for easy customization, Clean hero design focused on product value and messaging, Smooth flow across features, pricing and testimonial sections, Fully responsive structure optimized for all devices, SEO friendly foundation built for SaaS growth and reach.
+Minimal and premium layout for AI presentation tools, Elegant sections designed to showcase features beautifully, Crafted with Next.js and Tailwind CSS for easy customization, Clean hero design focused on product value and messaging, Smooth flow across features, pricing and testimonial sections, Fully responsive structure optimized for all devices and SEO friendly foundation built for SaaS growth and reach.
 
 ![SlideX - React JS AI Presentation Template](https://assets.prebuiltui.com/templates/slidex/thumbnails/slidex-preview-thumbnail-1.png)
 
