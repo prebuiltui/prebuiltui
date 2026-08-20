@@ -1,0 +1,7 @@
+# Genify - AI Website Builder React JS Template
+
+![Genify - AI Website Builder React JS Template](https://assets.prebuiltui.com/templates/genify/thumbnails/genify-preview-thumbnail-1.png)
+
+Live Demo - [https://genify.prebuiltui.com](https://genify.prebuiltui.com?utm_source=github&utm_medium=readme)
+
+More Details - [https://prebuiltui.com/react-templates/genify-ai-website-builder](https://prebuiltui.com/react-templates/genify-ai-website-builder?utm_source=github&utm_medium=readme)
