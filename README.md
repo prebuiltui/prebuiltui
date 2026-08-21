@@ -43,4 +43,4 @@ We welcome contributions from the community!
 
 ---
 
-> 🔗 Explore here: [https://prebuiltui.com](https://prebuiltui.com?ref=github)
+> 🔗 Explore here: [https://prebuiltui.com](https://prebuiltui.com?utm_source=github&utm_medium=referral)
