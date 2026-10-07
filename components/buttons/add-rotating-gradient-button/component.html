@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gradient Button</title>
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background: #0f0f23;
+        font-family: system-ui, -apple-system, sans-serif;
+      }
+
+      .gradient-button {
+        position: relative;
+        overflow: hidden;
+        border: none;
+        z-index: 1;
+        padding: 1rem 2rem;
+        border-radius: 0.75rem;
+        color: white;
+        font-weight: 500;
+        font-size: 1rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 15px rgba(31, 209, 249, 0.3);
+      }
+
+      .gradient-button::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        z-index: -1;
+        background: linear-gradient(315deg, #1fd1f9 0%, #b621fe 74%);
+        transition: all 0.4s ease;
+      }
+
+      .gradient-button:hover::after {
+        transform: scale(2) rotate(180deg);
+      }
+
+      .gradient-button:hover {
+        box-shadow: 0 8px 30px rgba(182, 33, 254, 0.5);
+      }
+
+      .gradient-button:active {
+        transform: scale(0.98);
+      }
+    </style>
+  </head>
+  <body>
+    <button class="gradient-button">Read More</button>
+  </body>
+</html>
